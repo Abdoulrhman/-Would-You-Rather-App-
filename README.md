@@ -16,7 +16,7 @@ This app is the two out of three projects required for [Udacity's React Nanodegr
 Clone the repository, change directories, and use NPM to install the dependencies.
 
 ```bash
-$ git clone https://github.com/Abdoulrhman/-Would-You-Rather-App.git
+$ git clone https://github.com/Abdoulrhman/-Would-You-Rather-App-.git
 $ cd -Would-You-Rather-App
 $ npm install
 ```
