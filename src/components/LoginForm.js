@@ -35,7 +35,7 @@ const LoginForm = (props) => {
 
   return (
     <Form onSubmit={handleSubmit}>
-      <Header as="h2" color="green">
+      <Header as="h2" color="yellow">
         Sign In
       </Header>
       <Form.Dropdown

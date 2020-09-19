@@ -1,15 +1,25 @@
 export const colors = {
   green: {
     name: 'green',
-    hex: '#21ba45'
+    hex: '#00FF00'
+  },
+
+  yellow: {
+    name: 'yellow',
+    hex: '#FFFF00'
+  },
+
+  pink: {
+    name: 'pink',
+    hex: '#FF0099'
   },
   blue: {
     name: 'blue',
-    hex: '#2185d0'
+    hex: '#00FFFF'
   },
   grey: {
     name: null,
-    hex: '#d4d4d5'
+    hex: '#CC00FF'
   }
 };
 
