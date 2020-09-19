@@ -33,4 +33,4 @@ The project can be viewed in the browser at
 
 ## Screenshots
 
-![screenshot #1](\public\images\screenshoots\Capture.PNG)
+![screenshot #1](public\images\screenshoots\Capture.PNG)
