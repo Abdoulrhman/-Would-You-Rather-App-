@@ -24,7 +24,10 @@ const NewPoll = () => {
   const [loading, setLoading] = useState(false);
   const [isValid, setIsValid] = useState(false);
   const handleChange = (e) => {
-    setOptions({ [e.target.id]: e.target.value });
+    setOptions({
+      ...options,
+      [e.target.id]: e.target.value,
+    });
   };
   const handleSubmit = (e) => {
     e.preventDefault();
